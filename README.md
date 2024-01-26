@@ -2,7 +2,7 @@
 
 ## 受賞作品オープンデータ
 
-- [data/tokushima-digital-award-2024.csv](data/tokushima-digital-award-2024.csv)
+- [data/tokushima-digital-award-2024.csv](data/tokushima-digital-award-2024.csv) ([APP](https://code4fukui.github.io/tokushima-digital-award/))
 
 ### 使用例
 
@@ -22,4 +22,4 @@ document.body.textContent = JSON.stringify(data);
 
 ## 解説
 
-- [地方x創造的デジタル人材、第3回「デジタルとくしま大賞」受賞作品をオープンデータ化する方法](https://fukun.jig.jp/4202)
+- [地方x創造的デジタル人材、第3回「デジタルとくしま大賞」受賞作品をスクレイピングしオープンデータ化する方法](https://fukun.jig.jp/4202)
